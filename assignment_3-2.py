@@ -14,3 +14,9 @@ def priceA():
     price2=20
     return price2
 
+def main_code():
+    total1=(buyO()*priceO())
+    total2=(buyA()*priceA())
+    
+
+
